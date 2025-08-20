@@ -1,6 +1,5 @@
 # Dataviz
-## Contact
-##For questions or collaboration, contact: 23f3000663@ds.study.iitm.ac.in
+## For questions or collaboration, contact: 23f3000663@ds.study.iitm.ac.in
 # Customer Analytics: Customer Satisfaction by Product Category
 
 This project demonstrates how to create a **publication-ready Seaborn barplot** that compares average customer satisfaction across different product categories.  
