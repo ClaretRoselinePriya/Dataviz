@@ -83,7 +83,8 @@ plt.gcf().set_facecolor("white")
 # -------------------------
 # 4) Save exactly 512×512
 # -------------------------
-plt.savefig("chart.png", dpi=64, bbox_inches="tight")  # 8in * 64dpi = 512px
+plt.savefig("chart.png", dpi=64, bbox_inches=None, pad_inches=0)   # 8in * 64dpi = 512px
 plt.close()
+
 
 print("Saved chart.png (512x512).")
